@@ -6,7 +6,7 @@ f.close()
 
 ## using Context Manager 'with' statement
 with open('new1.txt', 'w') as f:
-    f.write('This one is using Context Manager. Check it out')
+    f.write('This one is using Context Manager. Check it out. This change was made on GitHub Website')
     
 ### you can use Context Manager "with" statement 2 ways:
 ##### 1) Using "Class"
